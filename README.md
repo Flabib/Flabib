@@ -8,6 +8,10 @@ I am a collegian at the Muhammadiyah University of Cirebon majoring in informati
 - 💬 Ask me about anything [here](https://github.com/Flabib/Flabib/issues)
 - 📫 How to reach me: [here](https://fahdilabib.akatekno.id)
 
-[![Flabib's github stats](https://github-readme-stats.vercel.app/api?username=flabib&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flabib&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=vue" alt="Flabib's github stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flabib&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flabib&layout=compact&theme=vue" alt="Top Langs" />
+</a>
