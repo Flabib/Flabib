@@ -40,5 +40,3 @@ Seorang **Full-Stack Developer** yang saat ini mengabdi sebagai staf di **UPT TI
 
 > **Bridge Structural Health Monitoring System**
 > Sebuah sistem inovatif yang memanfaatkan teknik *Computer Vision* untuk memantau dan menganalisis kesehatan struktur jembatan secara otomatis dan akurat.
-
----
