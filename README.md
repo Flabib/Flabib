@@ -1,7 +1,3 @@
----
-
-# Profil Profesional
-
 ## **Fahdi Labib**
 
 **Full-Stack Developer | Machine Learning & Computer Vision Researcher**
