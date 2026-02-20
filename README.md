@@ -42,5 +42,3 @@ Seorang **Full-Stack Developer** yang saat ini mengabdi sebagai staf di **UPT TI
 > Sebuah sistem inovatif yang memanfaatkan teknik *Computer Vision* untuk memantau dan menganalisis kesehatan struktur jembatan secara otomatis dan akurat.
 
 ---
-
-Apakah kamu ingin saya menambahkan bagian lain, seperti daftar *tech stack* (bahasa pemrograman) yang kamu kuasai atau tautan ke portofolio/GitHub milikmu?
